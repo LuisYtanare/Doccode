@@ -289,6 +289,8 @@ html {
     padding: 25px 35px;
     text-align: center;
     transition: all 0.3s ease;
+    color: #f1f1f1;
+    text-shadow: -2px -1px 6px rgba(0, 0, 0, 0.77);
 }
 .teams .carousel .card:hover{
     background: #00aaf9;
@@ -357,6 +359,7 @@ html {
 .contact .contact-content .row i{
     font-size: 25px;
     color: #D500F9;
+    width: 25px;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
